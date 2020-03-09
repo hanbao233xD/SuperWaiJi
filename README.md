@@ -1,13 +1,18 @@
 # SuperWaiJi Hack
-# 超级外挂 
+# 超级外挂
+
 No Hack Just NMSL
 不是外挂 仅仅是炸服
+
 Deception programs for low IQ people
 这个应用程序适用所有的我的世界服务器
+
 The program will attack the user's computer
 这个应用程序没有任何的后门插件
+
 Everyone can copy the super waiji
 所有人都可以拷贝本应用
+
 enjoy:)
 享受这个软件吧
 
@@ -41,6 +46,7 @@ ChestStealer
 No Fall
 And More Hack mod
 (F-A-K-E)
+
 
 超级外挂功能列表
 杀戮光环
